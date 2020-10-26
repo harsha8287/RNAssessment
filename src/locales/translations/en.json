@@ -1,0 +1,14 @@
+{
+    "home_screen": {
+        "lbl_home": "Home Screen",
+        "lbl_tap_connect": "Tap to Connect:",
+        "lbl_send_message": "Send"
+    },
+    "customer_screen": {
+        "alert_unable_to_render": "Sorry unable to render the data",
+        "alert_question_sent": "Question sent",
+        "alert_something_wrong": "Sorry something went wrong while getting rows",
+        "alert_enter_question": "Please enter your question",
+        "btn_send": "Send"
+    }
+}

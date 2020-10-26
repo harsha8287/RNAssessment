@@ -1,0 +1,12 @@
+{
+    "home_screen": {
+        "lbl_home": "Home Screen"
+    },
+    "detail_screen": {
+        "lbl_genres": "Genres",
+        "lbl_released": "Released On",
+        "lbl_origin": "Origin",
+        "btn_play": "Play",
+        "btn_stop": "Stop"
+    }
+}

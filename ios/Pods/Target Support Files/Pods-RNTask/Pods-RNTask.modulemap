@@ -1,0 +1,6 @@
+module Pods_RNTask {
+  umbrella header "Pods-RNTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

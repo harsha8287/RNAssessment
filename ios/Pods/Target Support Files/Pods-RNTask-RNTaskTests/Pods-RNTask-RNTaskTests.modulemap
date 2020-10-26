@@ -1,0 +1,6 @@
+module Pods_RNTask_RNTaskTests {
+  umbrella header "Pods-RNTask-RNTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
