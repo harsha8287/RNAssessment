@@ -52,7 +52,7 @@ $ yarn ios 'or' react-native run-ios
 
 - Image 1: 
 
-![alt text](https://github.com/harsha8287/RNAssessment/blob/main/screenshots/Screenshot_01.png?raw=true)
+![alt text](https://github.com/harsha8287/RNAssessment/blob/main/screenshots/Screenshot_01.jpeg?raw=true)
 
 ### Build with
 
