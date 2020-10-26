@@ -50,14 +50,9 @@ $ yarn ios 'or' react-native run-ios
 
 ### Screenshots:
 
-- Image 1: Home screen 
+- Image 1: 
 
-![alt text]()
-
-- Image 2: Detail Screen
-
-![alt text]()
-
+![alt text](https://github.com/harsha8287/RNAssessment/blob/main/screenshots/Screenshot_01.png?raw=true)
 
 ### Build with
 
